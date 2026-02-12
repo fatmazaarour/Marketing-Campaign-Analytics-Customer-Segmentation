@@ -1,3 +1,6 @@
+<img width="404" height="776" alt="github" src="https://github.com/user-attachments/assets/4675dbdd-4efb-4b2f-b837-8a250a3c87db" />
+
+
 ## Interactive Dashboard
 
 You can explore the interactive Tableau dashboard here:
