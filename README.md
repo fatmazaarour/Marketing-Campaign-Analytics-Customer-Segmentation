@@ -1,5 +1,12 @@
-# Marketing-Campaign-Analytics-Customer-Segmentation
+## Interactive Dashboard
 
+You can explore the interactive Tableau dashboard here:
+
+[[View Interactive Dashboard on Tableau Public](https://public.tableau.com/authoring/MarketingCampaignAnalyticsDashboard1/MarketingCampaignAnalyticsDashboard#1)
+
+
+# Marketing-Campaign-Analytics-Customer-Segmentation
+ 
 
 Marketing Campaign Optimization, Segmentation & Response Modeling
 Executive Summary
